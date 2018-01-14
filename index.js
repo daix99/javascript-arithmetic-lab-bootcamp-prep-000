@@ -12,3 +12,6 @@ console.log(number)
 
 add5()
 console.log(number)
+
+parselnt('2',10) //2
+
